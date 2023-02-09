@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UzmanIhsan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning of how to make webpage
 - 📫 How to reach me through comments below my webpages
 
 <!---
